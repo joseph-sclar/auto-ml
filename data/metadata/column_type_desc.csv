@@ -1,0 +1,8 @@
+column_name,type
+species,categorical
+island,categorical
+bill_length_mm,numerical
+bill_depth_mm,numerical
+flipper_length_mm,numerical
+body_mass_g,numerical
+sex,categorical
